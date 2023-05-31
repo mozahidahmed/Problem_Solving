@@ -7,7 +7,7 @@
 <li>Program to Check Leap Year </li>
 <li>Program to Check Whether a Numbr is Positive or Negative</li>
 <li>Program to Check Whether a Number is alphabet or not</li>
-<li>Multiplication Table Up to 10 (namota)</li>
+<li>Multiplication tble Up to 10 (namota)</li>
 
 
 
