@@ -10,3 +10,6 @@
 <li>Multiplication tble Up to 10 (namota)</li>
 <li>Display Fibonacci Sequence</li>
 </ol>
+
+<h4>switch Statement</h4
+
