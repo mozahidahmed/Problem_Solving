@@ -1,5 +1,6 @@
 
-<h4>Basic calculation with C programming</h4>
+<h4>C and javaScript programming language </h4>
+<h4>Basic calculation </h4>
 <ol>
 <li>Check whether a number is even or odd => variable && input user </li>
 <li>Check whether a character is a vowel or consonant => variable && input user && switch-case </li>
