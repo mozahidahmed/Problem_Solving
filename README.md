@@ -1,5 +1,5 @@
 
-<h4>C and javaScript programming language.</h4>
+<h4>C and javaScript programming language...</h4>
 <h4>Basic calculation </h4>
 <ol>
 <li>Check whether a number is even or odd => variable && input user </li>
